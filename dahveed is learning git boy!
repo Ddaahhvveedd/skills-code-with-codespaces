@@ -1,0 +1,7 @@
+.devcontainer/devcontainer.json
+{
+"name": "dahveed is learning git boy!",
+"image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+"remoteUser" : "codespace",
+"overrideCommand": false
+}
